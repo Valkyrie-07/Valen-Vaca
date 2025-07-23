@@ -41,19 +41,6 @@ Acá documento todo lo que vengo aprendiendo sobre **Python**, **GitHub** y herr
 
 ---
 
-## 🗂️ Posible estructura del repo
-
-```
-📁 /listas_python
-📁 /estructuras_datos
-📁 /tablas_dinamicas
-📁 /proyectos_personales
-📁 /notebooks
-📄 README.md
-```
-
----
-
 ## 📝 Notas
 
 Este repo **no es oficial ni institucional**. Lo uso como bitácora personal para seguir practicando y profundizando en los contenidos de la materia. También me sirve para tener todo organizado en un solo lugar y mostrar el progreso en GitHub.
